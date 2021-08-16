@@ -1,0 +1,6 @@
+2021-08-14 23:16:42 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MOVIMENTO_MANUAL" not found; SQL statement:
+select movimentom0_.num_lancamento as num_lanc1_0_, movimentom0_.dat_mes as dat_mes2_0_, movimentom0_.dat_ano as dat_ano3_0_, movimentom0_.cod_produto as cod_prod4_0_, movimentom0_.cod_cosif as cod_cosi5_0_, movimentom0_.cod_usuario as cod_usua6_0_, movimentom0_.dat_movimento as dat_movi7_0_, movimentom0_.des_descricao as des_desc8_0_, movimentom0_.val_valor as val_valo9_0_ from movimento_manual movimentom0_ [42102-200]
+2021-08-14 23:17:24 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MOVIMENTO_MANUAL" not found; SQL statement:
+select movimentom0_.num_lancamento as num_lanc1_0_, movimentom0_.dat_mes as dat_mes2_0_, movimentom0_.dat_ano as dat_ano3_0_, movimentom0_.cod_produto as cod_prod4_0_, movimentom0_.cod_cosif as cod_cosi5_0_, movimentom0_.cod_usuario as cod_usua6_0_, movimentom0_.dat_movimento as dat_movi7_0_, movimentom0_.des_descricao as des_desc8_0_, movimentom0_.val_valor as val_valo9_0_ from movimento_manual movimentom0_ [42102-200]
